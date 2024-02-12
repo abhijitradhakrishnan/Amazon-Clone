@@ -1,0 +1,7 @@
+cdnjs :- Content delivery network   
+useOfCdn :- Finds the nearest server to our current location
+border-box :- For applying any border changes inside the element and not to spread outside the element ("basically used so that elements should not move from its original position)
+
+( border: none; ) property :-    For removing default border
+
+width: 100%;  :-  width set 100% so that the search bar will automatically acquire the reamining spaces
